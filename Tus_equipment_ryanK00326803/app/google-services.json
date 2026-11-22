@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295353626958",
+    "project_id": "tusbookings",
+    "storage_bucket": "tusbookings.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295353626958:android:9f3255005625cdf06dee1f",
+        "android_client_info": {
+          "package_name": "com.example.tusbookings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPat5cA9AKGjDyimitGy6uhp7jMxWsUc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
